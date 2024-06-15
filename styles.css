@@ -1,0 +1,36 @@
+body {
+    background-color: black;
+}
+
+table {
+    border: 1px solid black;
+    margin: auto;
+}
+
+input[type="button"] {
+    color: white;
+    background-color:cadetblue;
+    width: 100%;
+    font-size: xx-large;
+    border-radius: 10px;
+    font-weight: bold;
+    border: 0px;
+}
+
+input[type="text"] {
+    color: white;
+    background-color: rgb(65, 71, 82);
+    font-weight: bold;
+    font-size: 28px;
+}
+
+table, h1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    top: 100px;
+    color: white;
+}
+
+
